@@ -19,7 +19,7 @@ Clone the repository:
 
 
 ```bash
-  git clone https://github.com/your-username/your-repo.git
+[ https://github.com/Usernameunavailable0/movie-search-app.git ]
 ```
 
 Navigate to the project directory: 
@@ -61,8 +61,9 @@ npm start
 **API:** OMDB
 
 
+## Demo
 
-
+[https://usernameunavailable0.github.io/movie-search-app/]
 
 ## Screen Shots
 
