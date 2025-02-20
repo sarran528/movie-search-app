@@ -1,8 +1,70 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Movie Search App - Jetflix
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A movie search application that allows users to search for movies and TV series released before 2024. It fetches movie and series posters along with details using the OMDB API.
+
+
+## Features
+
+Search for movies and TV series
+
+View movie posters and series posters
+
+Fetches data from OMDB API
+
+## Installation
+
+Clone the repository:
+
+
+```bash
+  git clone https://github.com/your-username/your-repo.git
+```
+
+Navigate to the project directory: 
+
+```bash
+  cd your-repo
+```
+Install dependencies:
+
+
+```bash 
+npm install
+```
+## API Reference
+
+#### Get an OMDB API key from OMDB.
+
+Create a .env file in the root directory and add your API key:
+
+
+```bash
+REACT_APP_OMDB_API_KEY=your_api_key_here
+```
+
+
+Start the application:
+
+```bash
+npm start
+```
+
+
+## Tech Stack
+
+**Client:** HTML , Css , React
+
+**Server:** Node
+
+**API:** OMDB
+
+
+
+
+
+## Screen Shots
+
+
+
