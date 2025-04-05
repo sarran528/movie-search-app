@@ -63,7 +63,7 @@ npm start
 
 ## Demo
 
-[https://usernameunavailable0.github.io/movie-search-app/]
+[https://sarran528.github.io/movie-search-app/]
 
 ## Screen Shots
 
